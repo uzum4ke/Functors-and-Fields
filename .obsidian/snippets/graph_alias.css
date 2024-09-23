@@ -1,0 +1,17 @@
+/* Display alias instead of the full title in graph view */
+.graph-view .node-title::after {
+  content: attr(data-alias);
+}
+
+/* Hide the original timestamped title */
+.graph-view .node-title {
+  visibility: hidden;
+}
+
+/* Show alias as the title */
+.graph-view .node-title::after {
+  visibility: visible;
+  position: absolute;
+  left: 0;
+  top: 0;
+}

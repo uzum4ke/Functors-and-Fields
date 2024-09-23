@@ -27,7 +27,7 @@
       "eqRefSuffix": "",
       "labelPrefix": "",
       "lineByLine": true,
-      "theoremCalloutStyle": "Framed",
+      "theoremCalloutStyle": "Plain",
       "theoremCalloutFontInherit": false,
       "beginProof": "\\begin{proof}",
       "endProof": "\\end{proof}",
@@ -119,7 +119,7 @@
     "triggerEquationSuggestDataview": "\\eqref:d",
     "enableSuggest": true,
     "enableTheoremSuggest": true,
-    "enableEquationSuggest": true,
+    "enableEquationSuggest": false,
     "enableSuggestActiveNote": true,
     "enableTheoremSuggestActiveNote": true,
     "enableEquationSuggestActiveNote": true,
@@ -151,5 +151,15 @@
     "searchModalRange": "recent",
     "searchModalDvQuery": ""
   },
-  "excludedFiles": []
+  "excludedFiles": [
+    "Quantum Topology/202409212351_classifying space of a group.md",
+    "Combinatorics/202409221752_monomorphism.md",
+    "Combinatorics/202409221830_pullback_lemma.md",
+    "Combinatorics/202409221850_homotopy sum.md",
+    "Combinatorics/202409221859_Beck-Chevalley.md",
+    "Differential Geometry/202409221921_cohesive_structure.md",
+    "Differential Geometry/202409221942_locally_local.md",
+    "Differential Geometry/202409221948_locally_connected.md",
+    "202409222028_connected_characterization.md"
+  ]
 }

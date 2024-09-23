@@ -1,3 +1,5 @@
 {
-  "autoPairMarkdown": true
+  "autoPairMarkdown": true,
+  "spellcheck": true,
+  "autoPairBrackets": true
 }

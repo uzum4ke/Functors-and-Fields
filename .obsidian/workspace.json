@@ -11,8 +11,12 @@
             "id": "96ea9d028803f2a8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Combinatorics/202409221859_Beck-Chevalley.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Combinatorics/202409221859_Beck-Chevalley.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Combinatorics/202409221859_Beck-Chevalley.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Combinatorics/202409221859_Beck-Chevalley.md"
+              }
             }
           }
         ]
@@ -142,10 +150,26 @@
   },
   "active": "96ea9d028803f2a8",
   "lastOpenFiles": [
-    "Algebra/202409212225_clone_model.md",
-    "clone.md",
-    "Algebra/202409212105_clone_homomorphism.md",
+    "Combinatorics/202409221850_homotopy sum.md",
+    "Combinatorics/202409221859_Beck-Chevalley.md",
     "Algebra/202409212000_clone.md",
+    "Algebra/202409212105_clone_homomorphism.md",
+    "Algebra/202409212225_clone_model.md",
+    "Differential Geometry/202409222028_globally_connected_characterization.md",
+    "Differential Geometry/202409221921_cohesive_structure.md",
+    "Differential Geometry/202409221948_locally_connected.md",
+    "Differential Geometry/202409221942_locally_local.md",
+    "Combinatorics/202409221830_pullback_lemma.md",
+    "Combinatorics/202409221752_monomorphism.md",
+    "Differential Geometry",
+    "README.md",
+    "Combinatorics",
+    "Quantum Topology/202409212351_classifying space of a group.md",
+    "Untitled.md",
+    "Snippets/graph_alias.css",
+    "Snippets",
+    "Quantum Topology",
+    "clone.md",
     "Algebra/references.bib.md",
     "Algebra/clone.md",
     "Algebra/Set theory conventions.md",
