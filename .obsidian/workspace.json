@@ -11,12 +11,8 @@
             "id": "96ea9d028803f2a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combinatorics/202409221859_Beck-Chevalley.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Combinatorics/202409221859_Beck-Chevalley.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Combinatorics/202409221859_Beck-Chevalley.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Combinatorics/202409221859_Beck-Chevalley.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,17 +142,28 @@
   },
   "active": "96ea9d028803f2a8",
   "lastOpenFiles": [
+    "Logic/202409232307_(un)straightening.md",
+    "Logic/202409232249_indexed_category.md",
+    "Algebraic Geometry/202409232005_mapping_space.md",
+    "Algebraic Geometry/202409231958_isomorphism.md",
+    "Algebraic Geometry/202409231938_homotopy_category.md",
+    "Algebraic Geometry/202409232144_loop_space.md",
+    "Algebraic Geometry/202409232103_equivalence.md",
+    "Algebraic Geometry/202409232139_fiber_product.md",
     "Combinatorics/202409221850_homotopy sum.md",
+    "Combinatorics/202409221752_monomorphism.md",
     "Combinatorics/202409221859_Beck-Chevalley.md",
-    "Algebra/202409212000_clone.md",
-    "Algebra/202409212105_clone_homomorphism.md",
+    "Combinatorics/202409221830_pullback_lemma.md",
+    "Logic",
+    "Algebraic Geometry/202409232150_homotopy_groups.md",
     "Algebra/202409212225_clone_model.md",
+    "Algebra/202409212105_clone_homomorphism.md",
+    "Algebraic Geometry",
+    "Algebra/202409212000_clone.md",
     "Differential Geometry/202409222028_globally_connected_characterization.md",
     "Differential Geometry/202409221921_cohesive_structure.md",
     "Differential Geometry/202409221948_locally_connected.md",
     "Differential Geometry/202409221942_locally_local.md",
-    "Combinatorics/202409221830_pullback_lemma.md",
-    "Combinatorics/202409221752_monomorphism.md",
     "Differential Geometry",
     "README.md",
     "Combinatorics",
@@ -172,9 +175,6 @@
     "clone.md",
     "Algebra/references.bib.md",
     "Algebra/clone.md",
-    "Algebra/Set theory conventions.md",
-    "Algebra/A Unified Framework for Notions of Algebraic Theory.md",
-    "Welcome.md",
     "A Unified Framework for Notions of A",
     "Algebra",
     "Functors---Fields"
